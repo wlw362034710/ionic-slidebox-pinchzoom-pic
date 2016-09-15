@@ -1,0 +1,3 @@
+# ionic-slidebox-pinchzoom-pic
+
+This is a project showing how to add pinch/zoom gesture for pics in ionic slidebox...
