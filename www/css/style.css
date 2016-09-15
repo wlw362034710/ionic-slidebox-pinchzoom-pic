@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+.bk-color {
+    background: #444;
+}
+
+.image-modal {
+    width: 100% !important;
+    height: 1000px;
+    top: 0 !important;
+    left: 0 !important;
+}
+
+.fullscreen-image {
+    max-width: 100%;
+    max-height: 100%;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    overflow: auto;
+    right: 0;
+    top: 0;
+}
